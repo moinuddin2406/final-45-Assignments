@@ -1,0 +1,6 @@
+"use strict";
+// Assignment# 1
+// storing the personname in a variable
+let personName = "moinuddin";
+// printing a messagre to the person
+console.log(`Hello ${personName}, would you like to learn some python today?`);
